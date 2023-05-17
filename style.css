@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+    border-radius: 3px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+p{
+    /* border-radius: 4px solid black;
+     */
+     display: flex;
+     align-items: center;
+    border: black;
+    height: 171px;
+    width: 606px;
+    border: 2px solid red;
+    padding: 12px ;
+    margin: 12px;
+    background-color: yellow;
+
+}
+.para{
+    margin: 12px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
